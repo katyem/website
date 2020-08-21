@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Green | Katyem Lab</title>
+    <link>/author/patrick-green/</link>
+      <atom:link href="/author/patrick-green/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Green</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
+      <title>Patrick Green</title>
+      <link>/author/patrick-green/</link>
+    </image>
+    
+  </channel>
+</rss>

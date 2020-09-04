@@ -2,7 +2,7 @@
   command = "hugo --gc --minify -b $URL"
 
 [build.environment]
-  HUGO_THEME = "academic"
+  HUGO_THEME = "repo"
   HUGO_VERSION = "0.74.3"
   HUGO_ENABLEGITINFO = "true"
 

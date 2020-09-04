@@ -1,5 +1,5 @@
 title = "Katyem Lab"
-baseurl = "https://tsheets.netlify.com/"
+baseurl = "https://tsheets.netlify.app/"
 theme = "hugo-academic"
 enableGitInfo = false
 languageCode = "en-us"

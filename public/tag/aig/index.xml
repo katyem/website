@@ -39,12 +39,7 @@
 
 
 
-  
 
-
-
-  
-  
 
 
 
@@ -59,10 +54,10 @@
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/smaig1_hu613ac648cec6743f0fb4cc22bbe78e2a_7242_2000x2000_fit_lanczos_2.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;smaig1.png&#34; &gt;
 
 
-  &lt;img data-src=&#34;/project/smaig/smaig1_hu613ac648cec6743f0fb4cc22bbe78e2a_7242_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;238&#34; height=&#34;268&#34;&gt;
+  &lt;img src=&#34;smaig1.png&#34; alt=&#34;&#34;  &gt;
 &lt;/a&gt;
 
 

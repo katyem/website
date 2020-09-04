@@ -1,6 +1,3 @@
-[build]
-  command = "hugo --gc --minify -b $URL --themesDir ../../"
-
 [build.environment]
   HUGO_THEME = "repo"
   HUGO_VERSION = "0.74.3"

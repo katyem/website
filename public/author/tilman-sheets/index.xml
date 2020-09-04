@@ -5,12 +5,144 @@
     <link>/author/tilman-sheets/</link>
       <atom:link href="/author/tilman-sheets/index.xml" rel="self" type="application/rss+xml" />
     <description>Tilman Sheets</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 20:27:21 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Tilman Sheets</title>
       <link>/author/tilman-sheets/</link>
     </image>
+    
+    <item>
+      <title>the KOTA</title>
+      <link>/project/kota/</link>
+      <pubDate>Wed, 19 Aug 2020 20:27:21 -0500</pubDate>
+      <guid>/project/kota/</guid>
+      <description>&lt;h1 id=&#34;the-kota-katyem-object-tracking-assessment&#34;&gt;The KOTA: Katyem Object Tracking Assessment&lt;/h1&gt;
+&lt;p&gt;The KOTA represents my second attempt at Automated Item Generation. My first experience with it was working with 
+&lt;a href=&#34;https://twitter.com/scottyhines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scotty Hines&lt;/a&gt; on a very interesting number analogy test. This time around I wanted to use graphic images. I was greatly influenced by the 
+&lt;a href=&#34;https://icar-project.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iCar project&lt;/a&gt; which seemed to be mostly dormate by the time I stumbled on it. The plan is to rewrite the code that builds the item images in r for use in our rAIG project&amp;rsquo;s open assessment system.&lt;/p&gt;
+&lt;p&gt;Feel free to take it for a spin: 
+&lt;a href=&#34;https://katyem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the KOTA at Katyem.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Shepard-Metzler AIG project</title>
+      <link>/project/smaig/</link>
+      <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/project/smaig/</guid>
+      <description>&lt;h1 id=&#34;the-shepard-metzler-auto-item-generation-smaig-project&#34;&gt;The Shepard-Metzler Auto Item Generation (SMAIG) project&lt;/h1&gt;
+&lt;p&gt;R code using the rgl package (among others) that allows the creation of SM cubes either on-the-fly (completely random at this point) or using matrix coordinates from a spreadsheet. The plan is to use the SMAIG in our rAIG project&amp;rsquo;s assessment system.  SMAIG should be available on GitHub by December 2020 (hopefully, sooner).&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/smaig1_hu613ac648cec6743f0fb4cc22bbe78e2a_7242_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/smaig1_hu613ac648cec6743f0fb4cc22bbe78e2a_7242_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;238&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/smaig2_hu5506437c6f919fe3bd6ceced858f2e91_6969_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/smaig2_hu5506437c6f919fe3bd6ceced858f2e91_6969_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;238&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/smaig3_hu459349a5817a7d2e695725bbf756f4b9_6093_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/smaig3_hu459349a5817a7d2e695725bbf756f4b9_6093_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;238&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

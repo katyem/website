@@ -1,4 +1,5 @@
-setwd("D:/R stuff/katyem.net") #My AIG files
+getwd()
+setwd("D:/R stuff/tilman") #My AIG files
 blogdown::build_site()
 blogdown::serve_site()
 
@@ -6,3 +7,4 @@ blogdown::serve_site()
 blogdown::new_post(title = "first new post")
 blogdown::stop_server()
 
+getwd()

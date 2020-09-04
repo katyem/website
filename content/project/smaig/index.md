@@ -10,7 +10,7 @@ links:
   icon_pack: fab
   name: Follow
   url: https://github.com/katyem
-summary: r using rgl package to build 3D models.
+summary: r using the rgl graphics package to build 3D models.
 
 authors: [Tilman Sheets]
 tags: [AIG]
@@ -29,5 +29,11 @@ R code using the rgl package (among others) that allows the creation of SM cubes
 {{< figure src="smaig2.png" title="" >}}
 {{< figure src="smaig3.png" title="" >}}
 
+{{< figure src="994.png" title="" >}}
+{{< figure src="995.png" title="" >}}
+{{< figure src="996.png" title="" >}}
 
+{{< figure src="997.png" title="" >}}
+{{< figure src="998.png" title="" >}}
+{{< figure src="999.png" title="" >}}
 

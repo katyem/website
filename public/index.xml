@@ -77,23 +77,9 @@
     </item>
     
     <item>
-      <title>the KOTA</title>
-      <link>/project/kota/</link>
-      <pubDate>Wed, 19 Aug 2020 20:27:21 -0500</pubDate>
-      <guid>/project/kota/</guid>
-      <description>&lt;h1 id=&#34;the-kota-katyem-object-tracking-assessment&#34;&gt;The KOTA: Katyem Object Tracking Assessment&lt;/h1&gt;
-&lt;p&gt;The KOTA represents my second attempt at Automated Item Generation. My first experience with it was working with 
-&lt;a href=&#34;https://twitter.com/scottyhines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scotty Hines&lt;/a&gt; on a very interesting number analogy test. This time around I wanted to use graphic images. I was greatly influenced by the 
-&lt;a href=&#34;https://icar-project.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iCar project&lt;/a&gt; which seemed to be mostly dormate by the time I stumbled on it. The plan is to rewrite the code that builds the item images in r for use in our rAIG project&amp;rsquo;s open assessment system.&lt;/p&gt;
-&lt;p&gt;Feel free to take it for a spin: 
-&lt;a href=&#34;https://katyem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the KOTA at Katyem.com&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Creating a blogdown site for Katyem</title>
       <link>/post/creating-a-blogdown-site/</link>
-      <pubDate>Wed, 19 Aug 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/post/creating-a-blogdown-site/</guid>
       <description>&lt;p&gt;Wow, what a ride! From Yihui&amp;rsquo;s wonderful r package 
 &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;, to the ins and outs of 
@@ -354,6 +340,20 @@ You found me!
     </item>
     
     <item>
+      <title>the KOTA</title>
+      <link>/project/kota/</link>
+      <pubDate>Wed, 19 Aug 2020 20:27:21 -0500</pubDate>
+      <guid>/project/kota/</guid>
+      <description>&lt;h1 id=&#34;the-kota-katyem-object-tracking-assessment&#34;&gt;The KOTA: Katyem Object Tracking Assessment&lt;/h1&gt;
+&lt;p&gt;The KOTA represents my second attempt at Automated Item Generation. My first experience with it was working with 
+&lt;a href=&#34;https://twitter.com/scottyhines&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Scotty Hines&lt;/a&gt; on a very interesting number analogy test. This time around I wanted to use graphic images. I was greatly influenced by the 
+&lt;a href=&#34;https://icar-project.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;iCar project&lt;/a&gt; which seemed to be mostly dormate by the time I stumbled on it. The plan is to rewrite the code that builds the item images in r for use in our rAIG project&amp;rsquo;s open assessment system.&lt;/p&gt;
+&lt;p&gt;Feel free to take it for a spin: 
+&lt;a href=&#34;https://katyem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the KOTA at Katyem.com&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Shepard-Metzler AIG project</title>
       <link>/project/smaig/</link>
       <pubDate>Thu, 06 Aug 2020 00:00:00 +0000</pubDate>
@@ -366,7 +366,12 @@ You found me!
 
 
 
+  
 
+
+
+  
+  
 
 
 
@@ -381,10 +386,10 @@ You found me!
 &lt;figure &gt;
 
 
-  &lt;a data-fancybox=&#34;&#34; href=&#34;smaig1.png&#34; &gt;
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/smaig1_hu613ac648cec6743f0fb4cc22bbe78e2a_7242_2000x2000_fit_lanczos_2.png&#34; &gt;
 
 
-  &lt;img src=&#34;smaig1.png&#34; alt=&#34;&#34;  &gt;
+  &lt;img data-src=&#34;/project/smaig/smaig1_hu613ac648cec6743f0fb4cc22bbe78e2a_7242_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;238&#34; height=&#34;268&#34;&gt;
 &lt;/a&gt;
 
 
@@ -457,6 +462,222 @@ You found me!
 
 
   &lt;img data-src=&#34;/project/smaig/smaig3_hu459349a5817a7d2e695725bbf756f4b9_6093_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;238&#34; height=&#34;268&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/994_hub34c6f5efc5acad9cff8910fd14d87ab_10676_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/994_hub34c6f5efc5acad9cff8910fd14d87ab_10676_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/995_hubb22443fae4e2867f69cf5c625478754_13410_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/995_hubb22443fae4e2867f69cf5c625478754_13410_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/996_hu5a8d8a4169a76ea28b7e7ae88d714b34_16430_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/996_hu5a8d8a4169a76ea28b7e7ae88d714b34_16430_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;513&#34; height=&#34;563&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/997_hu099f3ef3a8f4ea595e03ee1976bb6681_19365_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/997_hu099f3ef3a8f4ea595e03ee1976bb6681_19365_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;513&#34; height=&#34;563&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/998_huad5687eeebb4f3e94ce05d8ab4b437c6_13300_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/998_huad5687eeebb4f3e94ce05d8ab4b437c6_13300_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;513&#34; height=&#34;563&#34;&gt;
+&lt;/a&gt;
+
+
+
+&lt;/figure&gt;
+
+
+
+
+
+
+
+  
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure &gt;
+
+
+  &lt;a data-fancybox=&#34;&#34; href=&#34;/project/smaig/999_hua205534119c211c16659f1ebd425ae1a_6585_2000x2000_fit_lanczos_2.png&#34; &gt;
+
+
+  &lt;img data-src=&#34;/project/smaig/999_hua205534119c211c16659f1ebd425ae1a_6585_2000x2000_fit_lanczos_2.png&#34; class=&#34;lazyload&#34; alt=&#34;&#34; width=&#34;400&#34; height=&#34;400&#34;&gt;
 &lt;/a&gt;
 
 
@@ -620,16 +841,48 @@ Three
       <link>/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
       <guid>/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Terms</title>
-      <link>/terms/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
-      <guid>/terms/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;The Simple Version&lt;/p&gt;
+&lt;p&gt;We use your contact information for in-house purposes only, and do not share any information about you with third parties. Contact information comes from registration through our website to our e-Newsletters, from which you’re able to unsubscribe at any time.&lt;/p&gt;
+&lt;p&gt;What Personal Information Does NPQ Gather?&lt;/p&gt;
+&lt;p&gt;Information You Give Us and Google Analytics data (visits and click throughs).&lt;/p&gt;
+&lt;p&gt;We receive and store any information you enter into our website or give us in any other way. This includes subscribing to our e-Newsletters or submitting a form (such as a comment) on our website. We ask for personal information so that we can fulfill your request and return your message. If you choose not to provide any of that information, we may not be able to fulfill your request or answer your question, your call.&lt;/p&gt;
+&lt;p&gt;Social Media &amp;amp; Comments&lt;/p&gt;
+&lt;p&gt;Katyem uses social media such as website comments, and networks like Twitter and LinkedIn, to engage people in dialogue. As mentioned above, Katyem may make use of data collected via these functions on our website (e.g., posting tweets). On other networks, we abide by the terms and conditions of that website/service, and reserve the right to use those networks for marketing purposes. Comments made on on this site are reviewed and published at our discretion, and through the use of these functions you accept that Katyem is permitted to edit, moderate, and reuse comments for in-house promotional materials. Promotions and advertising are not permitted in this medium, nor is derogatory or hateful speech.&lt;/p&gt;
+&lt;p&gt;Automatic Information&lt;/p&gt;
+&lt;p&gt;When you visit any of our websites, our servers make a log of basic information corresponding to the sites and pages you have visited. This information is stored primarily to track the effectiveness of our websites and individual sections and pages within them. At this time, our general website does not use cookies (alphanumeric identifiers that can be stored by a visitor’s browser to identify them on a future visit, or during a single visit).&lt;/p&gt;
+&lt;p&gt;Non-Personal Information may include the browser name, the type of device and technical information transmitted, language preferences, geographic location, time stamps and visited pages, operating systems and other similar information. We may also collect IP addresses which would be irrevocably anonymized.&lt;/p&gt;
+&lt;p&gt;How Secure Is Information about Me?&lt;/p&gt;
+&lt;p&gt;All computers that receive or store personal information are secured by firewalls and other security measures.&lt;/p&gt;
+&lt;p&gt;How Do We Collect Your Information?&lt;/p&gt;
+&lt;p&gt;We collect personal data if and when online users sign up for our e-Newsletter. We may also collect personal information given voluntarily when contacting us on our website, submitting writing content, advertising requests, downloading a publication, and/or while registering for a webinar. When you visit Katyem’s Website, we may collect information about your visit such as your IP address and the pages you visited and when you subscribe and access our publications or educational content we may collect information on when and how you use those services.&lt;/p&gt;
+&lt;p&gt;Cookies&lt;/p&gt;
+&lt;p&gt;A “cookie” is a small piece of information that a website assigns to your device while you are viewing a website. Cookies are very helpful and can be used for various different purposes, which include allowing you to navigate between pages efficiently, remembering your preferences and making the interaction between you and our services quicker and easier. Cookies are also used to help customize your experience. To learn more information about cookies you can visit &lt;a href=&#34;http://www.allaboutcookies.org/&#34;&gt;http://www.allaboutcookies.org/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;What Do We Do With the Information We Gather?
+We may use the information that you provide and that we gather for the following purposes:&lt;/p&gt;
+&lt;p&gt;To Provide Services To You: We use your information for online subscriptions, to enable you to view the content on our website, and to otherwise interact with all of the features and services available on our site. We also may use your non-personal information to send and process connection requests.&lt;/p&gt;
+&lt;p&gt;For Subscription-Services: When we communicate with you, we may do so through the e-mail address that you provide to us, notices to your inbox, and other means available.&lt;/p&gt;
+&lt;p&gt;To Improve Our Site and Services: To better understand how users access and use our Site and to improve our Site and respond to user requests and preferences.&lt;/p&gt;
+&lt;p&gt;What Types of Communication Will You Receive?&lt;/p&gt;
+&lt;p&gt;We publish an e-Newsletter. We do not rent or sell our e-mail lists.&lt;/p&gt;
+&lt;p&gt;How We Use Information We Collect&lt;/p&gt;
+&lt;p&gt;We send an email with the link to our e-newsletter to the email address you provide. We provide you with an easy way to opt-out of receiving such communications in the future.&lt;/p&gt;
+&lt;p&gt;Notice to Non-U.S. Users.&lt;/p&gt;
+&lt;p&gt;Katyem Lab is based in the United States.  Use of your information by Katyem Lab is intended for use only within the U.S. and its territories.  If you use our site and our services, your information will be stored in the United States. We may, however, use third-party service providers that are located outside of the United States. Content and use of that content is intended to conform to United States law and practices. Use outside the United States is at your risk, and you agree to comply with all applicable laws and use or nonuse of content.&lt;/p&gt;
+&lt;p&gt;Third-Party Links&lt;/p&gt;
+&lt;p&gt;Our Site and Services may contain links to third-party sites. Any access to and use of such links are not governed by this policy, but instead is governed by the privacy policies of those third-party websites. Katyem Labs is not responsible for the information practices of such third-party sites.&lt;/p&gt;
+&lt;p&gt;Security&lt;/p&gt;
+&lt;p&gt;We use internal guidelines and organizational procedures to prevent information misuse and data leakage. However, we cannot guarantee that our systems will be absolutely safe. If you become aware of any security vulnerability or potential data breach, please contact us immediately at &lt;a href=&#34;mailto:admin@katyem.net&#34;&gt;admin@katyem.net&lt;/a&gt;, and we can take the appropriate measures to address such incident.&lt;/p&gt;
+&lt;p&gt;Conditions of Use and Revisions&lt;/p&gt;
+&lt;p&gt;If you have any concern about privacy on our website or communications, please send us a description of your concern &lt;a href=&#34;mailto:admin@katyem.net&#34;&gt;admin@katyem.net&lt;/a&gt;, and we will try to resolve it. Changing practices and circumstances may require that we make changes to this privacy policy from time to time. Any changes will be reflected on this website. We reserve the right to change these terms from time to time. All changes are effective immediately, and could apply to all access to and use of the site thereafter. Your continued use of the site following changes will be conclusively deemed as acceptance of any new changes to our terms and conditions. We encourage you to check on this page so you may be aware of any changes, as they are binding on you.&lt;/p&gt;
+&lt;p&gt;Contacting Us&lt;/p&gt;
+&lt;p&gt;You may contact us to delete your account or have any questions about the privacy aspects of our Services&lt;/p&gt;
+&lt;p&gt;Our postal address is:
+Katyem Lab c/o Dr. Tilman Sheets
+Dept of Psychology
+Louisiana Tech University
+Ruston, LA 71272&lt;/p&gt;
+&lt;p&gt;We can be reached via e-mail at &lt;a href=&#34;mailto:admin@katyem.net&#34;&gt;admin@katyem.net&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;End of Legal BS&lt;/p&gt;
 </description>
     </item>
     

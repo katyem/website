@@ -8,3 +8,4 @@ blogdown::new_post(title = "first new post")
 blogdown::stop_server()
 
 getwd()
+blogdown::hugo_version()

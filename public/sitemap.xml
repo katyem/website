@@ -33,6 +33,16 @@
   </url>
   
   <url>
+    <loc>/post/creating-a-blogdown-site/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tag/aig/</loc>
     <lastmod>2020-08-19T20:27:21-05:00</lastmod>
   </url>
@@ -70,16 +80,6 @@
   <url>
     <loc>/author/tilman-sheets/</loc>
     <lastmod>2020-08-19T20:27:21-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/creating-a-blogdown-site/</loc>
-    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/</loc>
-    <lastmod>2020-08-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -134,11 +134,6 @@
   
   <url>
     <loc>/privacy/</loc>
-    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/terms/</loc>
     <lastmod>2018-06-28T00:00:00+01:00</lastmod>
   </url>
   

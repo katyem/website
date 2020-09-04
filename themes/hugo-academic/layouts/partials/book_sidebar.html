@@ -20,15 +20,16 @@
     <ul class="nav docs-sidenav">
       <li class="{{ if .IsHome }}active{{ end }}"><a href="{{ $root_page.RelPermalink }}">{{$root_page.Title}}</a></li>
     </ul>
-    {{ if eq $order_by "title" }}
+    {{- if eq $order_by "title" -}}
 
-  {{ $query = .Site.Home.Sections.ByTitle  }}
-  {{ else if eq $order_by "title_desc" }}
+      {{- $query = .Site.Home.Sections.ByTitle  -}}
+
+    {{- else if eq $order_by "title_desc" -}}
     
-      {{ $query = .Site.Home.Sections.ByTitle.Reverse  }}
-    {{ else }}
-      {{ $query = .Site.Home.Sections.ByWeight }}
-    {{ end}}
+      {{- $query = .Site.Home.Sections.ByTitle.Reverse  -}}
+    {{- else -}}
+      {{- $query = .Site.Home.Sections.ByWeight -}}
+    {{- end}}
   {{else}}
     {{ $menu_name = (path.Base (path.Split .FirstSection).Dir) }}
     {{- if eq $order_by "title" -}}

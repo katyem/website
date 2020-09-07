@@ -4,8 +4,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 7  # Order that this section will appear.
 
-title = ""
-subtitle = ""
+title = "Katyem Lab"
+subtitle = "Researching and creating innovations in assessment that are just and open."
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -45,4 +45,4 @@ subtitle = ""
  # CSS class.
  css_class = ""  
 +++
-Researching and creating innovations in assessment that are just and open.
+

@@ -8,13 +8,13 @@ math: true
 title: Creating a blogdown site for Katyem
 ---
 
-Wow, what a ride! From Yihui's wonderful r package [blogdown](https://github.com/rstudio/blogdown), to the ins and outs of [GitHub](https://github.com/), [Netifly](https://www.netlify.com/), [Hugo](https://gohugo.io/), and the incredibly complicated Academic theme, we have arrived at this (sorry for the buildup, I know you were probably expecting a bit more). I'm convinced if you find someone that can traverse the blogdown map to arrive at a bona fide r-fortified website, you have found an incredible nerd. A nerd with the formidable tenacity to adhere to the thinnest hope of success.
+Wow, what a ride! From Yihui's wonderful r package [blogdown](https://github.com/rstudio/blogdown), to the ins and outs of [GitHub](https://github.com/), [Netifly](https://www.netlify.com/), [Hugo](https://gohugo.io/), and the incredibly complicated Academic theme, we have arrived at this (sorry for the buildup, I know you were probably expecting a bit more). I'm convinced if you find someone that can traverse the blogdown map to arrive at a bonafide r-fortified website, you have found an incredible nerd. A nerd with the formidable tenacity to adhere to the thinnest hope of success.
 
-For the record, I have a long history of building sites using a wide variety of approaches from the early days of html in a simple text editor to the glories of CMS packages like Wordpress, Drupal, and Moodle. I've recently spent some (excessive) time building an assessment site using primarily php and javascript, and with all that preparation, I still struggled for days to wrap my head around all that blogdown asked of me. Oh yeah, I also have some R progaming experience under my belt and, thus, my interest in using blogdown to begin with. 
+For the record, I have a long history of building sites using a wide variety of approaches from the early days of html in a simple text editor to the glories of CMS packages like Wordpress, Drupal, and Moodle. I've recently spent some (excessive) time building an assessment site using primarily php and javascript, and with all that preparation, I still struggled for days to wrap my head around all that blogdown asked of me. Oh yeah, I also have some R progaming experience under my belt, thus my interest in using blogdown to begin with. 
 
 Anyway, hopefully, I'll write more about the details and even think about a quick tutorial (I think that's what William James said about his [first attempt at a textbook](http://www.gutenberg.org/ebooks/57628).
 
-The rest of this is what was in the sample post I used to make this one. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the [Academic theme for Hugo](https://sourcethemes.com/academic/) (Hugo is the website framework used by the blogdown package).
+The rest of this is what was in the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the [Academic theme for Hugo](https://sourcethemes.com/academic/) (Hugo is the website framework used by the blogdown package).
 
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.
 

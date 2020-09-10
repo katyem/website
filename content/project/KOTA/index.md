@@ -7,7 +7,7 @@ tags: [AIG]
 categories: [AIG]
 date: 2020-08-19T20:27:21-05:00
 lastmod: 2020-08-19T20:27:21-05:00
-featured: false
+featured: true
 draft: false
 
 # Featured image

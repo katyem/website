@@ -1,6 +1,12 @@
 ---
 title: "Selection Discrimination"
 subtitle: ""
+links:
+- icon: galactic-republic
+  icon_pack: fab
+  name: Follow
+  url: https://osf.io/kjt9f/
+  
 summary: "Assessing the impact of practice on discrimination in selection"
 authors: [Derrick McDonald, Tilman Sheets]
 tags: [AIG, KOTA, selection]

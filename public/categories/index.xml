@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories | Katyem Lab</title>
-    <link>/categories/</link>
-      <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://katyem.netlify.app/categories/</link>
+      <atom:link href="https://katyem.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <description>Categories</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 20:27:21 -0500</lastBuildDate>
     <image>
-      <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
+      <url>https://katyem.netlify.app/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Categories</title>
-      <link>/categories/</link>
+      <link>https://katyem.netlify.app/categories/</link>
     </image>
     
   </channel>

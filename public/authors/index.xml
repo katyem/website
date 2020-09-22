@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Katyem Lab</title>
-    <link>https://katyem.netlify.app/authors/</link>
-      <atom:link href="https://katyem.netlify.app/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 19 Aug 2020 20:27:21 -0500</lastBuildDate>
     <image>
-      <url>https://katyem.netlify.app/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
-      <link>https://katyem.netlify.app/authors/</link>
+      <link>/authors/</link>
     </image>
     
   </channel>

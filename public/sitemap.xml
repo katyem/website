@@ -3,194 +3,199 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://katyem.netlify.app/courses/example/example1/</loc>
+    <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/courses/example/</loc>
+    <loc>/courses/example/</loc>
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/courses/example/example2/</loc>
+    <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/talk/example/</loc>
+    <loc>/talk/example/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/</loc>
+    <loc>/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/talk/</loc>
+    <loc>/talk/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/post/creating-a-blogdown-site/</loc>
+    <loc>/post/creating-a-blogdown-site/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/tag/aig/</loc>
+    <loc>/tag/aig/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/category/aig/</loc>
+    <loc>/category/aig/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/authors/</loc>
+    <loc>/authors/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/project/</loc>
+    <loc>/project/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/project/kota/</loc>
+    <loc>/project/kota/</loc>
     <lastmod>2020-08-19T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/tilman-sheets/</loc>
+    <loc>/author/tilman-sheets/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/project/smaig/</loc>
+    <loc>/project/smaig/</loc>
     <lastmod>2020-08-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/derrick-mcdonald/</loc>
+    <loc>/author/derrick-mcdonald/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/tag/kota/</loc>
+    <loc>/tag/kota/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/tag/selection/</loc>
+    <loc>/tag/selection/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/project/kota_practice/</loc>
+    <loc>/project/kota_practice/</loc>
     <lastmod>2020-09-10T20:27:21-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/courses/</loc>
+    <loc>/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication-type/3/</loc>
+    <loc>/publication-type/3/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/admin/</loc>
+    <loc>/author/admin/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication/preprint/</loc>
+    <loc>/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication_types/</loc>
+    <loc>/publication_types/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication/</loc>
+    <loc>/publication/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/tag/source-themes/</loc>
+    <loc>/tag/source-themes/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/slides/</loc>
+    <loc>/slides/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/slides/example/</loc>
+    <loc>/slides/example/</loc>
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication-type/2/</loc>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication/journal-article/</loc>
+    <loc>/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/robert-ford/</loc>
+    <loc>/author/robert-ford/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication-type/1/</loc>
+    <loc>/publication-type/1/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/publication/conference-paper/</loc>
+    <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/derrick-mcdonald/</loc>
+    <loc>/author/derrick-mcdonald/</loc>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/joseph-myer/</loc>
+    <loc>/author/joseph-myer/</loc>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/patrick-green/</loc>
+    <loc>/author/patrick-green/</loc>
   </url>
   
   <url>
-    <loc>https://katyem.netlify.app/author/tilman-sheets/</loc>
+    <loc>/author/tilman-sheets/</loc>
   </url>
   
 </urlset>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>selection | Katyem Lab</title>
-    <link>https://katyem.netlify.app/tag/selection/</link>
-      <atom:link href="https://katyem.netlify.app/tag/selection/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tag/selection/</link>
+      <atom:link href="/tag/selection/index.xml" rel="self" type="application/rss+xml" />
     <description>selection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 20:27:21 -0500</lastBuildDate>
     <image>
-      <url>https://katyem.netlify.app/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>selection</title>
-      <link>https://katyem.netlify.app/tag/selection/</link>
+      <link>/tag/selection/</link>
     </image>
     
     <item>
       <title>Selection Discrimination</title>
-      <link>https://katyem.netlify.app/project/kota_practice/</link>
+      <link>/project/kota_practice/</link>
       <pubDate>Wed, 01 Apr 2020 20:27:21 -0500</pubDate>
-      <guid>https://katyem.netlify.app/project/kota_practice/</guid>
+      <guid>/project/kota_practice/</guid>
       <description>&lt;h1 id=&#34;assessing-the-impact-of-practice-on-discrimination-in-selection&#34;&gt;Assessing the impact of practice on discrimination in selection&lt;/h1&gt;
 &lt;p&gt;This is a dissertation project where we are using 
 &lt;a href=&#34;https://katyem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the KOTA&lt;/a&gt; in an effort to explore the impact of practice on potential descrimination in a selection scenario.&lt;/p&gt;

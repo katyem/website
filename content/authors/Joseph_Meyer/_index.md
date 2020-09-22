@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Joseph Myer
+title: Joseph Meyer 
 
 # Username (this should match the folder name)
 authors:
-- Joseph_Myer
+- Joseph_Meyer
 
 # Is this the primary user of the site?
 superuser: false
@@ -23,12 +23,12 @@ bio: Research interests include the use of AI in selection.
 interests:
 - Artificial Intelligence
 - Employee Selection 
-- Personality and context
+- Personality and Context
 
 education:
   courses:
   - course: BS in Psychology
-    institution: Slippery Rock University
+    institution:  Allegheny College
     year: 2018
 
 # Social/Academic Networking

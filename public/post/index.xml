@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Katyem Lab</title>
-    <link>https://katyem.netlify.app/post/</link>
-      <atom:link href="https://katyem.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://katyem.netlify.app/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
-      <link>https://katyem.netlify.app/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
       <title>Creating a blogdown site for Katyem</title>
-      <link>https://katyem.netlify.app/post/creating-a-blogdown-site/</link>
+      <link>/post/creating-a-blogdown-site/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
-      <guid>https://katyem.netlify.app/post/creating-a-blogdown-site/</guid>
+      <guid>/post/creating-a-blogdown-site/</guid>
       <description>&lt;p&gt;Wow, what a ride! From Yihui&amp;rsquo;s wonderful r package 
 &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;, to the ins and outs of 
 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, 

@@ -5,12 +5,23 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Using the imager package in R to measure occlusion in SMAIG image</title>
+      <link>/post/using-the-imager-package-in-r-to-measure-occlusion-in-smaig-image/</link>
+      <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>/post/using-the-imager-package-in-r-to-measure-occlusion-in-smaig-image/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been playing with the imager package in r to count pixels according to color code. Pretty straightforward so far, other than a bit of a learning curve to &amp;ldquo;understand&amp;rdquo; the structure of the image files. The images are from our  
+&lt;a href=&#34;/project/smaig/&#34;&gt;SMAIG&lt;/a&gt; project and all of the same dimensions, so I didn&amp;rsquo;t bother with size (which means the code will only work with a 400x400 image - sorry, but&amp;hellip;). The hope is that this data will help us better understand the role of occlusion in a Shepard-Metzler 3D rotation task. Well, first, we hope the data help us better understand how to best measure the construct - ha! At this point I&amp;rsquo;ve only counted the number of non-black/non-zero pixels. The plan is to count individual colors (grayscale) and color ranges to see if we can also determine the optimal amount of specificity needed in the model. Maybe later we&amp;rsquo;ll play around with edge detection, we&amp;rsquo;ll see. The long-term plan is to push this information into an algorithm that can automatically generate a SM rotation task with a targeted level of difficulty (i.e., theta).&lt;/p&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>Creating a blogdown site for Katyem</title>
@@ -24,7 +35,7 @@
 &lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;, and the incredibly complicated Academic theme, we have arrived at this (sorry for the buildup, I know you were probably expecting a bit more). I&amp;rsquo;m convinced if you find someone that can traverse the blogdown map to arrive at a bonafide r-fortified website, you have found an incredible nerd. A nerd with the formidable tenacity to adhere to the thinnest hope of success.&lt;/p&gt;
 &lt;p&gt;For the record, I have a long history of building sites using a wide variety of approaches from the early days of html in a simple text editor to the glories of CMS packages like Wordpress, Drupal, and Moodle. I&amp;rsquo;ve recently spent some (excessive) time building an assessment site using primarily php and javascript, and with all that preparation, I still struggled for days to wrap my head around all that blogdown asked of me. Oh yeah, I also have some R progaming experience under my belt, thus my interest in using blogdown to begin with.&lt;/p&gt;
 &lt;p&gt;Anyway, hopefully, I&amp;rsquo;ll write more about the details and even think about a quick tutorial (I think that&amp;rsquo;s what William James said about his 
-&lt;a href=&#34;http://www.gutenberg.org/ebooks/57628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first attempt at a textbook&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;http://www.gutenberg.org/ebooks/57628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first attempt at a textbook&lt;/a&gt;).&lt;/p&gt;
 &lt;p&gt;The rest of this is what was in the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I&amp;rsquo;ll just leave them here. So, here&amp;rsquo;s your introduction to the wonders of the 
 &lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Academic theme for Hugo&lt;/a&gt; (Hugo is the website framework used by the blogdown package).&lt;/p&gt;
 &lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;

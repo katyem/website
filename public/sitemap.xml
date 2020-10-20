@@ -33,12 +33,17 @@
   </url>
   
   <url>
-    <loc>/post/creating-a-blogdown-site/</loc>
-    <lastmod>2020-09-04T00:00:00+00:00</lastmod>
+    <loc>/post/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/post/using-the-imager-package-in-r-to-measure-occlusion-in-smaig-image/</loc>
+    <lastmod>2020-10-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/creating-a-blogdown-site/</loc>
     <lastmod>2020-09-04T00:00:00+00:00</lastmod>
   </url>
   
@@ -187,7 +192,7 @@
   </url>
   
   <url>
-    <loc>/author/joseph-myer/</loc>
+    <loc>/author/joseph-meyer/</loc>
   </url>
   
   <url>

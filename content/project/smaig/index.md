@@ -23,7 +23,7 @@ url_video: ""
 ---
 
 # The Shepard-Metzler Auto Item Generation (SMAIG) project
-R code using the rgl package (among others) that allows the creation of SM cubes either on-the-fly (completely random at this point) or using matrix coordinates from a spreadsheet. The plan is to use the SMAIG in our rAIG project's assessment system.  SMAIG should be available on GitHub by December 2020 (hopefully, sooner).
+R code using the rgl package (among others) that allows the creation of SM cubes either on-the-fly (completely random at this point) or using matrix coordinates from a spreadsheet. The plan is to use the SMAIG in our rAIG project's assessment system.  The most recent updates to the SMAIG code is available on Katyem Lab's GitHub repository.
 
 {{< figure src="smaig1.png" title="" >}}
 {{< figure src="smaig2.png" title="" >}}

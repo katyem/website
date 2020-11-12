@@ -1,4 +1,4 @@
-title = "Katyem Lab"
+title = "Katyem Lab"  # LOOK for other toml files in ../config/default/
 baseurl = "https://katyem.netlify.app/"
 theme = "hugo-academic"
 enableGitInfo = false
@@ -24,6 +24,7 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
   home = [ "HTML", "RSS", "JSON", "WebAppManifest" ]
   section = [ "HTML", "RSS" ]
 
+  
 [mediaTypes."application/manifest+json"]
   suffixes = ["webmanifest"]
 

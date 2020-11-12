@@ -189,7 +189,7 @@
   {{ $scr.Set "og_image" $og_image }}{{/* Set `og_image` globally for `rss.xml`. */}}
   <meta property="twitter:card" content="{{ $twitter_card }}">
   {{ with site.Params.twitter }}
-  <meta property="twitter:site" content="@{{ . }}">
+  <meta property="twitter:site" content="">
   <meta property="twitter:creator" content="@{{ . }}">
   {{ end }}
   <meta property="og:site_name" content="{{ site.Title }}">

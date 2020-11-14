@@ -2,7 +2,7 @@
 date: "2020-09-04"
 diagram: true
 image:
-  caption: 'Image credit: [**blogdown**](https://katyem.com/kota/)'
+  
   placement: 3
 math: true
 title: Creating a blogdown site for Katyem

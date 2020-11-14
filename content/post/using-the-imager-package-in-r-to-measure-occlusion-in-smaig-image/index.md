@@ -4,7 +4,7 @@ diagram: true
 title: Using the imager package in R to measure occlusion in SMAIG image
 
 image:
-  caption: 'Image credit: [**blogdown**](https://bookdown.org/yihui/blogdown/)'
+  caption: 'a SMAIG stack'
   placement: 3
 math: true
 slug: using-the-imager-package-in-r-to-measure-occlusion-in-smaig-image

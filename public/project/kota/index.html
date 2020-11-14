@@ -633,10 +633,33 @@
     <div class="article-style">
       <h1 id="the-kota-katyem-object-tracking-assessment">The KOTA: Katyem Object Tracking Assessment</h1>
 <p>The KOTA represents my second attempt at Automated Item Generation. My first experience with it was working with 
-<a href="https://twitter.com/scottyhines" target="_blank" rel="noopener">Scotty Hines</a> on a very interesting number analogy test. This time around I wanted to use graphic images. I was greatly influenced by the 
-<a href="https://icar-project.com/" target="_blank" rel="noopener">iCar project</a> which seemed to be mostly dormate by the time I stumbled on it. The plan is to rewrite the code that builds the item images in r for use in our rAIG project&rsquo;s open assessment system.</p>
+<a href="https://twitter.com/scottyhines" target="_blank" rel="noopener">Dr. Scotty Hines</a> on a very interesting number analogy test. This time around I wanted to use graphic images. I was greatly influenced by the 
+<a href="https://icar-project.com/" target="_blank" rel="noopener">iCar project</a> which seemed to be mostly dormant by the time I stumbled upon it. The plan is to rewrite the code that builds the item images in r for use in our rAIG project&rsquo;s open assessment system.</p>
+<p>The website is written using a strange combination of PHP and JavaScript. I licensed 
+<a href="https://codecanyon.net/item/advanced-security-php-registerlogin-system/5282621" target="_blank" rel="noopener">Advanced Security - PHP Register/Login System</a> for the login (best $16 I&rsquo;ve ever spent). The rest was hacked and spliced together into a heap of code that would make even the most unexperienced programmer cringe.</p>
+<p>The parameters for the images can come from an SQL call (
+<a href="https://www.mysql.com/" target="_blank" rel="noopener">MySQL</a>) or they can be randomly generated with PHP script (with the idea of later providing limits based on the performance of item radicals - an AIG term for item characteristics related to difficulty).</p>
+<p>At this point, the images are drawn using Canvas (HTML5&rsquo;s answer to Adobe Flash). This means tons of JavaScript!!  Yet another plan is to port this (the drawing onto Canvas) over to R (I know, WHY?  Well, I think researchers will get more interested if they can jump in using a language with which they are already familiar). The R code will create sets of images and JavaScript will &ldquo;place&rdquo;&rdquo; them in the Canvas elements.</p>
+<p>I&rsquo;m still working the bugs out of the administration dashboard but the gist of it is that Admins can collect data across different studies - each with its own KOTA code.
+<div class="spoiler " >
+  <p>
+    <a class="btn btn-primary" data-toggle="collapse" href="#spoiler-0" role="button" aria-expanded="false" aria-controls="spoiler-0">
+      Click to see the dashboard
+    </a>
+  </p>
+  <div class="collapse card " id="spoiler-0">
+    <div class="card-body">
+      <img src="KatyemDashboard.PNG" alt="">
+    </div>
+  </div>
+</div></p>
 <p>Feel free to take it for a spin: 
 <a href="https://katyem.com" target="_blank" rel="noopener">the KOTA at Katyem.com</a></p>
+<div class="alert alert-note">
+  <div>
+    If you&rsquo;re a researcher interested in using the KOTA, email me with a request to setup an admin account.
+  </div>
+</div>
 
     </div>
 

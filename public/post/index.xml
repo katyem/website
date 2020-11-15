@@ -72,7 +72,7 @@ im_cnt = im_cnt+2;
       <link>/post/creating-a-blogdown-site/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/post/creating-a-blogdown-site/</guid>
-      <description>&lt;p&gt;Wow, what a ride! From Yihui&amp;rsquo;s wonderful r package 
+      <description>&lt;p&gt;Wow, what a ride! From Yihui&amp;rsquo;s wonderful r package, 
 &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;, to the ins and outs of 
 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, 
 &lt;a href=&#34;https://www.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netifly&lt;/a&gt;, 

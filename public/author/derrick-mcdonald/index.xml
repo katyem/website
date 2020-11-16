@@ -5,12 +5,23 @@
     <link>/author/derrick-mcdonald/</link>
       <atom:link href="/author/derrick-mcdonald/index.xml" rel="self" type="application/rss+xml" />
     <description>Derrick McDonald</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 20:27:21 -0500</lastBuildDate>
     <image>
       <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Derrick McDonald</title>
       <link>/author/derrick-mcdonald/</link>
     </image>
+    
+    <item>
+      <title>Selection Discrimination</title>
+      <link>/project/kota_practice/</link>
+      <pubDate>Wed, 01 Apr 2020 20:27:21 -0500</pubDate>
+      <guid>/project/kota_practice/</guid>
+      <description>&lt;h1 id=&#34;assessing-the-impact-of-practice-on-discrimination-in-selection&#34;&gt;Assessing the impact of practice on discrimination in selection&lt;/h1&gt;
+&lt;p&gt;This is a dissertation project where we are using 
+&lt;a href=&#34;https://katyem.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the KOTA&lt;/a&gt; in an effort to explore the impact of practice on potential descrimination in a selection scenario.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

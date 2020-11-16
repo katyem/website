@@ -14,7 +14,7 @@ For the record, I have a long history of building sites using a wide variety of 
 
 Anyway, hopefully, I'll write more about the details and even think about a quick tutorial (I think that's what William James said about his [first attempt at a textbook](http://www.gutenberg.org/ebooks/57628)).
 
-**The rest of this post** is what was in the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the [Wowcemy theme for Hugo](https://wowchemy.com/) (Apparently, the Academic theme was renamed/branded Wowcemy in Oct 2020. Hugo is the website framework used by the blogdown package).
+**The rest of this post** is what was in the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the ~~Academic Theme~~ [Wowcemy Theme for Hugo](https://wowchemy.com/) (EDIT: the Academic theme was renamed/branded Wowcemy in Oct 2020. Hugo is the website framework used by the blogdown package). 
 
 ---------------------------------
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.

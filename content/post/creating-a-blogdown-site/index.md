@@ -8,13 +8,21 @@ math: true
 title: Creating a blogdown site for Katyem
 ---
 
-Wow, what a ride! From Yihui's wonderful r package, [blogdown](https://github.com/rstudio/blogdown), to the ins and outs of [GitHub](https://github.com/), [Netifly](https://www.netlify.com/), [Hugo](https://gohugo.io/), and the incredibly complicated Academic theme, we have arrived at this (sorry for the buildup, I know you were probably expecting a bit more). I'm convinced if you find someone that can traverse the blogdown map to arrive at a bonafide r-fortified website, you have found an incredible nerd. A nerd with the formidable tenacity to adhere to the thinnest hope of success.
+Wow, what a ride! From Yihui's wonderful {{< icon name="r-project" pack="fab" >}} package, [blogdown](https://github.com/rstudio/blogdown), to the ins and outs of [GitHub](https://github.com/), [Netifly](https://www.netlify.com/), [Hugo](https://gohugo.io/), and the incredibly complicated Academic theme, we have arrived at this (sorry for the buildup, I know you were probably expecting a bit more). I'm convinced if you find someone that can traverse the blogdown map to arrive at a bonafide r-fortified website, you have found an incredible nerd. A nerd with the formidable tenacity to adhere to the thinnest hope of success.
 
 For the record, I have a long history of building sites using a wide variety of approaches from the early days of html in a simple text editor to the glories of CMS packages like Wordpress, Drupal, and Moodle. I've recently spent some (excessive) time building an assessment site using primarily php and javascript, and with all that preparation, I still struggled for days to wrap my head around all that blogdown asked of me. Oh yeah, I also have some R progaming experience under my belt, thus my interest in using blogdown to begin with. 
 
 Anyway, hopefully, I'll write more about the details and even think about a quick tutorial (I think that's what William James said about his [first attempt at a textbook](http://www.gutenberg.org/ebooks/57628)).
 
-**The rest of this post** is what was in the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the ~~Academic Theme~~ [Wowcemy Theme for Hugo](https://wowchemy.com/) (EDIT: the Academic theme was renamed/branded Wowcemy in Oct 2020. Hugo is the website framework used by the blogdown package). 
+Here are a few links to instruction sites that I've encountered (I'm not endorsing any of them, at this point):
+
+
+- [ ] [Setting up your blog with RStudio and blogdown I: Creating the blog](http://estebanmoro.org/post/2019-02-02-setting-up-your-blog-with-rstudio-and-blogdown-i-creating-the-blog/)
+- [ ] [7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
+- [ ] [blogdown](https://github.com/rstudio/blogdown)
+- [ ] [Allison Hill , official R Nija and R-Lady, has several posts regarding blogdown and Hugo](https://alison.rbind.io/post/)
+
+**The rest of this post** is what was the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the ~~Academic Theme~~ [Wowcemy Theme for Hugo](https://wowchemy.com/) (EDIT: the Academic theme was renamed/branded Wowcemy in Oct 2020. [https://gohugo.io/](Hugo) is the website framework used by the blogdown package). 
 
 ---------------------------------
 Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.

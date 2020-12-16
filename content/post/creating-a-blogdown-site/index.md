@@ -21,6 +21,7 @@ Here are a few links to instruction sites that I've encountered (I'm not endorsi
 - [ ] [7 Ways You Can Further Customize the Hugo Academic Theme](https://isabella-b.com/blog/hugo-academic-customization/)
 - [ ] [blogdown](https://github.com/rstudio/blogdown)
 - [ ] [Allison Hill , official R Nija and R-Lady, has several posts regarding blogdown and Hugo](https://alison.rbind.io/post/)
+- [Websites in RStudio -> they incorporate Shiny apps]([https://robchavez.github.io/datascience_gallery/html_only/websites.html)
 
 **The rest of this post** is what was the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I'll just leave them here. So, here's your introduction to the wonders of the ~~Academic Theme~~ [Wowcemy Theme for Hugo](https://wowchemy.com/) (EDIT: the Academic theme was renamed/branded Wowcemy in Oct 2020. [https://gohugo.io/](Hugo) is the website framework used by the blogdown package). 
 

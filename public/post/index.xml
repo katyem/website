@@ -5,12 +5,26 @@
     <link>/post/</link>
       <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 17 Oct 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 13 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_512x512_fill_lanczos_center_2.png</url>
       <title>Posts</title>
       <link>/post/</link>
     </image>
+    
+    <item>
+      <title>Imager Update</title>
+      <link>/post/imager-update/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/imager-update/</guid>
+      <description>&lt;p&gt;I continued to tweak the code (and actually got it to work properly). After a brief break from the project, I realized how difficult it was to follow the code without extensive commenting&amp;hellip; so, the updated code is extensively commented - at least from my perspective. I also moved the project folder to the 
+&lt;a href=&#34;/project/smaig/&#34;&gt;SMAIG project&lt;/a&gt; and it now resides on 
+&lt;a href=&#34;https://github.com/katyem/smaig&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Occlusion scores were derived by counting the number of pixels with a color code greater than .5 (0 = black and 1 = white in a gray-scale palette) - lower scores = greater occlusion. The images can all be regenerated using the SMAIG code and the spreadsheet in the folder.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
     
     <item>
       <title>Using the imager package in R to measure occlusion in SMAIG image</title>
@@ -72,7 +86,8 @@ im_cnt = im_cnt+2;
       <link>/post/creating-a-blogdown-site/</link>
       <pubDate>Fri, 04 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/post/creating-a-blogdown-site/</guid>
-      <description>&lt;p&gt;Wow, what a ride! From Yihui&amp;rsquo;s wonderful r package, 
+      <description>&lt;p&gt;Wow, what a ride! From Yihui&amp;rsquo;s wonderful 
+  &lt;i class=&#34;fab fa-r-project  pr-1 fa-fw&#34;&gt;&lt;/i&gt; package, 
 &lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;, to the ins and outs of 
 &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;GitHub&lt;/a&gt;, 
 &lt;a href=&#34;https://www.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Netifly&lt;/a&gt;, 
@@ -80,8 +95,22 @@ im_cnt = im_cnt+2;
 &lt;p&gt;For the record, I have a long history of building sites using a wide variety of approaches from the early days of html in a simple text editor to the glories of CMS packages like Wordpress, Drupal, and Moodle. I&amp;rsquo;ve recently spent some (excessive) time building an assessment site using primarily php and javascript, and with all that preparation, I still struggled for days to wrap my head around all that blogdown asked of me. Oh yeah, I also have some R progaming experience under my belt, thus my interest in using blogdown to begin with.&lt;/p&gt;
 &lt;p&gt;Anyway, hopefully, I&amp;rsquo;ll write more about the details and even think about a quick tutorial (I think that&amp;rsquo;s what William James said about his 
 &lt;a href=&#34;http://www.gutenberg.org/ebooks/57628&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;first attempt at a textbook&lt;/a&gt;).&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;The rest of this post&lt;/strong&gt; is what was in the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I&amp;rsquo;ll just leave them here. So, here&amp;rsquo;s your introduction to the wonders of the 
-&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowcemy theme for Hugo&lt;/a&gt; (Apparently, the Academic theme was renamed/branded Wowcemy in Oct 2020. Hugo is the website framework used by the blogdown package).&lt;/p&gt;
+&lt;p&gt;Here are a few links to instruction sites that I&amp;rsquo;ve encountered (I&amp;rsquo;m not endorsing any of them, at this point):&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 
+&lt;a href=&#34;http://estebanmoro.org/post/2019-02-02-setting-up-your-blog-with-rstudio-and-blogdown-i-creating-the-blog/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Setting up your blog with RStudio and blogdown I: Creating the blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 
+&lt;a href=&#34;https://isabella-b.com/blog/hugo-academic-customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;7 Ways You Can Further Customize the Hugo Academic Theme&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 
+&lt;a href=&#34;https://github.com/rstudio/blogdown&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;blogdown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;input disabled=&#34;&#34; type=&#34;checkbox&#34;&gt; 
+&lt;a href=&#34;https://alison.rbind.io/post/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Allison Hill , official R Nija and R-Lady, has several posts regarding blogdown and Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;a href=&#34;[https://robchavez.github.io/datascience_gallery/html_only/websites.html&#34;&gt;Websites in RStudio -&amp;gt; they incorporate Shiny apps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;The rest of this post&lt;/strong&gt; is what was the sample post that I used to make this particular post. I wanted easy access to the examples and thought - hey, I&amp;rsquo;ll just leave them here. So, here&amp;rsquo;s your introduction to the wonders of the &lt;del&gt;Academic Theme&lt;/del&gt; 
+&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowcemy Theme for Hugo&lt;/a&gt; (EDIT: the Academic theme was renamed/branded Wowcemy in Oct 2020. 
+&lt;a href=&#34;Hugo&#34;&gt;https://gohugo.io/&lt;/a&gt; is the website framework used by the blogdown package).&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Academic is designed to give technical content creators a seamless experience. You can focus on the content and Academic handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
@@ -301,11 +330,11 @@ You found me!
 &lt;p&gt;renders as&lt;/p&gt;
 &lt;div class=&#34;spoiler &#34; &gt;
   &lt;p&gt;
-    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-1&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-1&#34;&gt;
+    &lt;a class=&#34;btn btn-primary&#34; data-toggle=&#34;collapse&#34; href=&#34;#spoiler-2&#34; role=&#34;button&#34; aria-expanded=&#34;false&#34; aria-controls=&#34;spoiler-2&#34;&gt;
       Click to view the spoiler
     &lt;/a&gt;
   &lt;/p&gt;
-  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-1&#34;&gt;
+  &lt;div class=&#34;collapse card &#34; id=&#34;spoiler-2&#34;&gt;
     &lt;div class=&#34;card-body&#34;&gt;
       You found me!
     &lt;/div&gt;

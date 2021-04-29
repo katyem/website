@@ -27,6 +27,17 @@
     </item>
     
     <item>
+      <title>Imager Update</title>
+      <link>/post/imager-update/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>/post/imager-update/</guid>
+      <description>&lt;p&gt;Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube. So, I added several new functions to the smaig_v2 function library in order to accomplish what was needed in Imager. The animation was made in R to demonstrate how the stacks are put together using cubes and then rotated on each axis. I had to zoom in at the end due to using the axes in the image - rgl automatically zooms out to accomodate whatever is in the image.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Using the imager package in R to measure occlusion in SMAIG image</title>
       <link>/post/using-the-imager-package-in-r-to-measure-occlusion-in-smaig-image/</link>
       <pubDate>Sat, 17 Oct 2020 00:00:00 +0000</pubDate>

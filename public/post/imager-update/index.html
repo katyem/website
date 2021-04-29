@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="I continued to tweak the code (and actually got it to work properly). After a brief break from the project, I realized how difficult it was to follow the code without extensive commenting&hellip; so, the updated code is extensively commented - at least from my perspective.">
+  <meta name="description" content="Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube.">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/imager-update/">
@@ -252,8 +252,8 @@
   <meta property="og:site_name" content="Katyem Lab">
   <meta property="og:url" content="/post/imager-update/">
   <meta property="og:title" content="Imager Update | Katyem Lab">
-  <meta property="og:description" content="I continued to tweak the code (and actually got it to work properly). After a brief break from the project, I realized how difficult it was to follow the code without extensive commenting&hellip; so, the updated code is extensively commented - at least from my perspective."><meta property="og:image" content="/post/imager-update/featured.png">
-  <meta property="twitter:image" content="/post/imager-update/featured.png"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube."><meta property="og:image" content="/post/imager-update/featured.gif">
+  <meta property="twitter:image" content="/post/imager-update/featured.gif"><meta property="og:locale" content="en-us">
   
     
       <meta property="article:published_time" content="2020-11-13T00:00:00&#43;00:00">
@@ -287,7 +287,7 @@
   "headline": "Imager Update",
   
   "image": [
-    "/post/imager-update/featured.png"
+    "/post/imager-update/featured.gif"
   ],
   
   "datePublished": "2020-11-13T00:00:00Z",
@@ -306,7 +306,7 @@
       "url": "/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "I continued to tweak the code (and actually got it to work properly). After a brief break from the project, I realized how difficult it was to follow the code without extensive commenting\u0026hellip; so, the updated code is extensively commented - at least from my perspective."
+  "description": "Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube."
 }
 </script>
 
@@ -610,10 +610,10 @@
 </div>
 
 
-<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 663px; max-height: 267px;">
+<div class="article-header container-fluid featured-image-wrapper mt-4 mb-4" style="max-width: 400px; max-height: 450px;">
   <div style="position: relative">
-    <img src="/post/imager-update/featured.png" alt="" class="featured-image">
-    <span class="article-header-caption">Occlusion Table</span>
+    <img src="/post/imager-update/featured.gif" alt="" class="featured-image">
+    <span class="article-header-caption">Rainbow Stack</span>
   </div>
 </div>
 
@@ -622,10 +622,7 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p>I continued to tweak the code (and actually got it to work properly). After a brief break from the project, I realized how difficult it was to follow the code without extensive commenting&hellip; so, the updated code is extensively commented - at least from my perspective. I also moved the project folder to the 
-<a href="/project/smaig/">SMAIG project</a> and it now resides on 
-<a href="https://github.com/katyem/smaig" target="_blank" rel="noopener">GitHub</a>.</p>
-<p>Occlusion scores were derived by counting the number of pixels with a color code greater than .5 (0 = black and 1 = white in a gray-scale palette) - lower scores = greater occlusion. The images can all be regenerated using the SMAIG code and the spreadsheet in the folder.</p>
+      <p>Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube. So, I added several new functions to the smaig_v2 function library in order to accomplish what was needed in Imager. The animation was made in R to demonstrate how the stacks are put together using cubes and then rotated on each axis. I had to zoom in at the end due to using the axes in the image - rgl automatically zooms out to accomodate whatever is in the image.</p>
 <hr>
 <h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌</h3>
 

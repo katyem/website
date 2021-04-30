@@ -77,6 +77,20 @@
     </item>
     
     <item>
+      <title>Rainbow stacks</title>
+      <link>/post/rainbow-stack/</link>
+      <pubDate>Thu, 29 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/rainbow-stack/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;/post/rainbow_rotation.gif&#34; alt=&#34;Buildin a Rainbow Stack&#34;&gt;
+Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube. So, I added several new functions to the smaig_v2 function library in order to accomplish what was needed in Imager. The animation was made in R to demonstrate how the stacks are put together using cubes and then rotated on each axis. I had to zoom in at the end due to using the axes in the image - rgl automatically zooms out to accomodate whatever is in the image.&lt;/p&gt;
+&lt;p&gt;Adding the axes via 
+&lt;a href=&#34;http://www.sthda.com/english/wiki/a-complete-guide-to-3d-visualization-device-system-in-r-r-software-and-data-visualization#rgl_add_axes-a-custom-function-to-add-x-y-and-z-axes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the function at this link&lt;/a&gt; was a big help in allowing me to see where each stack is located in 3d space. Using the axes as a guide, I centered the stacks in the build function using the info from their build data. Currently most of what I did is captured in the SMAIG.sandbox.R file. Hopefully, I&amp;rsquo;ll make updates and wrap all of it into the general smaig build function and use parameters to control everything. Right now, there&amp;rsquo;s just too much duck tape holding everything together.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Imager Update</title>
       <link>/post/imager-update/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
@@ -1042,17 +1056,6 @@ Ruston, LA 71272&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Supplementary notes can be added here, including 
 &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Imager Update</title>
-      <link>/post/imager-update/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/post/imager-update/</guid>
-      <description>&lt;p&gt;Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube. So, I added several new functions to the smaig_v2 function library in order to accomplish what was needed in Imager. The animation was made in R to demonstrate how the stacks are put together using cubes and then rotated on each axis. I had to zoom in at the end due to using the axes in the image - rgl automatically zooms out to accomodate whatever is in the image.&lt;/p&gt;
-&lt;hr&gt;
-&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
 </description>
     </item>
     

@@ -9,7 +9,7 @@ links:
 - icon: github
   icon_pack: fab
   name: Follow
-  url: https://github.com/katyem/smaig
+  url: https://github.com/katyem/smaig_v2
 summary: r functions using the rgl graphics package to build 3D models.
 
 authors: [Tilman Sheets]

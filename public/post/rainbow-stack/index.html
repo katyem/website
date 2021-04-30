@@ -30,7 +30,7 @@
   
     
   
-  <meta name="description" content="Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube.">
+  <meta name="description" content="Worked on a color version of the smaig stacks in order to test using them in calculating occlusion on a cube-by-cube basis. This required eliminating the 3D effect on the surface in order to only count 1 color per cube.">
 
   
   <link rel="alternate" hreflang="en-us" href="/post/rainbow-stack/">
@@ -252,13 +252,13 @@
   <meta property="og:site_name" content="Katyem Lab">
   <meta property="og:url" content="/post/rainbow-stack/">
   <meta property="og:title" content="Rainbow stacks | Katyem Lab">
-  <meta property="og:description" content="Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube."><meta property="og:image" content="/post/rainbow-stack/featured.png">
+  <meta property="og:description" content="Worked on a color version of the smaig stacks in order to test using them in calculating occlusion on a cube-by-cube basis. This required eliminating the 3D effect on the surface in order to only count 1 color per cube."><meta property="og:image" content="/post/rainbow-stack/featured.png">
   <meta property="twitter:image" content="/post/rainbow-stack/featured.png"><meta property="og:locale" content="en-us">
   
     
-      <meta property="article:published_time" content="2021-04-29T00:00:00&#43;00:00">
+      <meta property="article:published_time" content="2021-03-16T00:00:00&#43;00:00">
     
-    <meta property="article:modified_time" content="2021-04-29T00:00:00&#43;00:00">
+    <meta property="article:modified_time" content="2021-03-16T00:00:00&#43;00:00">
   
 
   
@@ -290,8 +290,8 @@
     "/post/rainbow-stack/featured.png"
   ],
   
-  "datePublished": "2021-04-29T00:00:00Z",
-  "dateModified": "2021-04-29T00:00:00Z",
+  "datePublished": "2021-03-16T00:00:00Z",
+  "dateModified": "2021-03-16T00:00:00Z",
   
   "author": {
     "@type": "Person",
@@ -306,7 +306,7 @@
       "url": "/images/icon_hu79a6f32e2dbfaa796048e7cc57597531_790_192x192_fill_lanczos_center_2.png"
     }
   },
-  "description": "Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube."
+  "description": "Worked on a color version of the smaig stacks in order to test using them in calculating occlusion on a cube-by-cube basis. This required eliminating the 3D effect on the surface in order to only count 1 color per cube."
 }
 </script>
 
@@ -575,7 +575,7 @@
     
       
     
-    Apr 29, 2021
+    Mar 16, 2021
   </span>
   
 
@@ -622,10 +622,38 @@
   <div class="article-container">
 
     <div class="article-style">
-      <p><img src="/post/rainbow_rotation.gif" alt="Buildin a Rainbow Stack">
-Worked on a color version of the smaig stacks in order to test using them in calculating oclussion on a cube-by-cube basis. This required taking away the 3D effect on the surface in order to only count 1 color per cube. So, I added several new functions to the smaig_v2 function library in order to accomplish what was needed in Imager. The animation was made in R to demonstrate how the stacks are put together using cubes and then rotated on each axis. I had to zoom in at the end due to using the axes in the image - rgl automatically zooms out to accomodate whatever is in the image.</p>
+      <p><img src="/post/rainbow_rotation.gif" alt="Buildin a Rainbow Stack"> 
+Worked on a color version of the smaig stacks in order to test using them in calculating occlusion on a cube-by-cube basis. This required eliminating the 3D effect on the surface in order to only count 1 color per cube. 
+<img src="/post/smaig_flat_rainbow.png" alt="Flat Rainbow Stack">
+So, I added several new functions to the smaig_v2 function library in order to accomplish what was needed in Imager. The animation was made in R to demonstrate how the stacks are put together using cubes and then rotated on each axis. I had to zoom in at the end due to using the axes in the image - rgl automatically zooms out to accommodate whatever is in the image.</p>
 <p>Adding the axes via 
-<a href="http://www.sthda.com/english/wiki/a-complete-guide-to-3d-visualization-device-system-in-r-r-software-and-data-visualization#rgl_add_axes-a-custom-function-to-add-x-y-and-z-axes" target="_blank" rel="noopener">the function at this link</a> was a big help in allowing me to see where each stack is located in 3d space. Using the axes as a guide, I centered the stacks in the build function using the info from their build data. Currently most of what I did is captured in the SMAIG.sandbox.R file. Hopefully, I&rsquo;ll make updates and wrap all of it into the general smaig build function and use parameters to control everything. Right now, there&rsquo;s just too much duck tape holding everything together.</p>
+<a href="http://www.sthda.com/english/wiki/a-complete-guide-to-3d-visualization-device-system-in-r-r-software-and-data-visualization#rgl_add_axes-a-custom-function-to-add-x-y-and-z-axes" target="_blank" rel="noopener">the function at this link</a> was a big help in allowing me to see where each stack is located in 3d space. Using the axes as a guide, I centered the stacks in the buildStack function using the info from each stack&rsquo;s build data. Currently, most of what I did is captured in the SMAIG.sandbox.R file. Hopefully, I&rsquo;ll make updates and wrap all of it into the general buildStack function and use arguments to control everything. Right now, there&rsquo;s just too much duct tape holding everything together.</p>
+<pre><code class="language-python">  # Fix the centering problem; 
+  # 1) Find the center of each stack axis
+  lgVal = c(0,0,0)
+  for (i in 1:stackSize) {
+    # move down each axis to find largest absolute value (most often last value, but not always)
+    for (j in 1:3) {
+      if (abs(cubeCoord[i,j]) &gt; lgVal[j]) {
+        lgVal[j] &lt;- cubeCoord[i,j]
+      }
+    }
+  }
+  #########cubeCoord = temp
+  # 2) calculate the center and replace all cubeCoord values
+  is.even &lt;- function(x) x %% 2 == 0
+  for (i in 1:stackSize) {
+    for (j in 1:3) {
+      if (is.even(lgVal[j])) { 
+        
+        cubeCoord[i,j] &lt;- (cubeCoord[i,j]-ceiling(lgVal[j]/2))+.5
+      } else {
+        cubeCoord[i,j] &lt;- (cubeCoord[i,j]-floor(lgVal[j]/2))-.5
+      }
+    }
+  }
+</code></pre>
+<p><img src="/post/SM_3d_FlatSpin.gif" alt="Rotating Flat Rainbow Stack"></p>
 <hr>
 <h3 id="did-you-find-this-page-helpful-consider-sharing-it-">Did you find this page helpful? Consider sharing it 🙌</h3>
 

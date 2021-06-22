@@ -3,9 +3,9 @@ date: '2021-06-16'
 title: Occlusion Update
 
 image:
-  caption: 'Occlusion Update'
+  caption: 'Vinay (Swadeep) Patel'
   placement: 3
-slug: smaig
+slug: occlusion-update
 author: Tilman
 
 ---

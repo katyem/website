@@ -77,6 +77,21 @@
     </item>
     
     <item>
+      <title>Occlusion Update</title>
+      <link>/post/smaig/</link>
+      <pubDate>Wed, 16 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>/post/smaig/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://www.linkedin.com/in/vinpatel24/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dr. Vinay Patel&lt;/a&gt; completed a study (congratulations!!) which examined his idea that occlusion could be an item radical in SMMRT using a sample from 
+&lt;a href=&#34;https://prolific.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Prolific.com&lt;/a&gt; that resulted in some pretty messy data. The primary issue was that many of the subjects completed the test way too fast - just my opinion which happens to be true. In the end, he did not find much in the way of support for using occlusion as a radical (an item feature related to difficulty). That said, we still believe his idea of using occlusion has merit and hope to continue data collection with an in-person sample.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll update this with a link to his study once he provides one (nudge).&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/post/rainbow_rotation.gif&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;did-you-find-this-page-helpful-consider-sharing-it-&#34;&gt;Did you find this page helpful? Consider sharing it 🙌&lt;/h3&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Rainbow stacks</title>
       <link>/post/rainbow-stack/</link>
       <pubDate>Tue, 16 Mar 2021 00:00:00 +0000</pubDate>
@@ -138,6 +153,7 @@ To that end, I&amp;rsquo;ve added several new functions to the smaig_v2 function
       <description>&lt;p&gt;I&amp;rsquo;ve been playing with the imager package in r to count pixels according to color code. Pretty straightforward so far, other than a bit of a learning curve to &amp;ldquo;understand&amp;rdquo; the structure of the image files. The images are from our  
 &lt;a href=&#34;/project/smaig/&#34;&gt;SMAIG&lt;/a&gt; project and all of the same dimensions, so I didn&amp;rsquo;t bother with size (which means the code will only work with a 400x400 image - sorry, but&amp;hellip;). The hope is that this data will help us better understand the role of occlusion in a Shepard-Metzler 3D rotation task. Well, first, we hope the data help us better understand how to best measure the construct - ha! At this point I&amp;rsquo;ve only counted the number of non-black/non-zero pixels. The plan is to count individual colors (grayscale) and color ranges to see if we can also determine the optimal amount of specificity needed in the model. Maybe later we&amp;rsquo;ll play around with edge detection, we&amp;rsquo;ll see. The long-term plan is to push this information into an algorithm that can automatically generate a SM rotation task with a targeted level of difficulty (i.e., theta).&lt;br&gt;
 For the record, I know I suck at programming and the code below resembles a bird&amp;rsquo;s nest.&lt;/p&gt;
+&lt;p&gt;Update:&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;##install.packages(&#39;imager&#39;)
 library(&#39;imager&#39;)
 im_names &amp;lt;- list.files (path = &amp;quot;smaig_pics/&amp;quot;); #folder in your working directory

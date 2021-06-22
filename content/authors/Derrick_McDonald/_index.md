@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Derrick McDonald
+title: Dr. Derrick McDonald
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Research Assistant
+role: Solution Architect
 
 # Organizations/Affiliations
 organizations:
@@ -27,9 +27,9 @@ interests:
 
 education:
   courses:
-  - course: MA in IO Psychology
+  - course: Ph.D. in IO Psychology
     institution: Louisiana Tech University
-    year: 2018
+    year: 2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Assistants
+- Alumni
 ---
 
-Derrick is completing his dissertation using the KOTA to see if practice decreases potential adverse impact in a selection senario.  His research interests include the use of AIG in selection.
+Derrick's dissertation examined adverse impact using the KOTA.  His research interests include the use of AIG in selection.

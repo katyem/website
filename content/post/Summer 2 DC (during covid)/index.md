@@ -21,7 +21,7 @@ It's been an interesting and hot summer. First and foremost, the program graduat
 
 Woo hoo!  Congratulations Doctors! 
 
-The all now understand my mantra “It’s not over just because you successfully defended.”  
+They all now understand my mantra “It’s not over just because you successfully defended.” University red tape at its finest. 
 
 A heartwarming event, especially having the opportunity to hood three of my former RAs (Olivia, Vinay, and Derrick).
 Olivia’s dissertation looked at real-world example of organizational decision-making through the lens of statistical analysis using confidence intervals. It’s an interesting take on considering risks associated with decisions based on organizational data.

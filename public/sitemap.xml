@@ -33,12 +33,17 @@
   </url>
   
   <url>
-    <loc>/post/smaig/</loc>
-    <lastmod>2021-06-16T00:00:00+00:00</lastmod>
+    <loc>/post/oaig/</loc>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/post/</loc>
+    <lastmod>2021-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/post/occlusion-update/</loc>
     <lastmod>2021-06-16T00:00:00+00:00</lastmod>
   </url>
   

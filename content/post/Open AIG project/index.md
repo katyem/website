@@ -23,7 +23,7 @@ Researchers also will have access to code repositories for image creation. BTW, 
 
 ![](/post/SMAIG-example.PNG)
 
-Why? Researchers have few quality options when it comes to assessing cognitive abilities due to the proprietary nature of most tests. In addition, the concerns around test security and potential practice effects prevent open approaches to assessing psychological constructs. This type of  approach allows and encourages people to practice the test. Also, I'm still testing the hypotheses that practice can help to reduce error (theoretically, shrink the standard error) and that some portion of said error is due to racial discrimnation.
+Why? Researchers have few quality options when it comes to assessing cognitive abilities due to the proprietary nature of most tests. In addition, the concerns around test security and potential practice effects prevent open approaches to assessing psychological constructs. This type of  approach allows and encourages people to practice the test. Also, I'm still testing the hypotheses that practice can help to reduce error and that some portion of said error is due to racial discrimnation.
 
 Dream list: A team of PHP/Javascript programmers with SQL and GitHub expertise (R and/or Python experience a plus). A project manager with GitHub expertise!! At least two Ph.D.-level I/O psychologists with expertise in psychometrics. 
 

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Solution Architect
+role: Analyst, Talent Management Reporting & Survey Administration at Gap
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: Research interests include the use of AI in selection.
 
 interests:
-- Automated Item Generation
-- Employee Selection
+- AIG
+- Employee Surveys
 - Personality
 
 education:
@@ -38,8 +38,9 @@ education:
 social:
 
 - icon: linkedin
-  icon_pack: fas
+  icon_pack: fab
   link: https://www.linkedin.com/in/dmcdonald27/
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

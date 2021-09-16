@@ -42,7 +42,7 @@
       <link>/post/oaig/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       <guid>/post/oaig/</guid>
-      <description>&lt;h1&gt;The Plan&lt;/h1&gt;
+      <description>&lt;h1&gt;The Plan! &lt;/h1&gt;
 &lt;p&gt;In essence, I want to build an online open-source platform (OAIG for Open Automated Item Generation) that will allow researchers to create tests using R or Python code for image creation related to their test items. Researchers will have access to open-source code (php and javascript) via GitHub that they can use on their own servers to administer their tests (and those from other researchers). The current vision is to use a matrix paradigm like the Raven&amp;rsquo;s where the number of rows and columns vary depending on the design - not unlike the 
 &lt;a href=&#34;https://katyem.netlify.app/project/kota/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;KOTA&lt;/a&gt; which has two rows and four columns.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;KOTA example:&lt;/em&gt;&lt;/p&gt;

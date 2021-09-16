@@ -4,7 +4,7 @@ title: Patrick Green
 
 # Username (this should match the folder name)
 authors:
-- Patrick_Green
+- Patrick_Red
 
 # Is this the primary user of the site?
 superuser: false

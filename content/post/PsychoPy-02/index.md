@@ -19,3 +19,5 @@ Shoestring](https://smnlab.msu.edu/wp-content/uploads/2022/07/Jahn_2022_JMedPsyc
 [Github for the above project](https://github.com/nomcomm/MediaNeuroscienceOnAShoestring_JMP)
 
 [Psychopy](https://psychopy.org/index.html)
+
+[Bluemuse app](https://github.com/kowalej/BlueMuse)

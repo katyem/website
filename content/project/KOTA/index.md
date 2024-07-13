@@ -40,7 +40,7 @@ I'm still working the bugs out of the administration dashboard but the gist of i
 ![](KatyemDashboard.PNG)
 {{< /spoiler >}}
 
-Feel free to take it for a spin: [the KOTA at Katyem.com](https://katyem.com)
+Feel free to take it for a spin: [the KOTA at Katyem.net](https://katyem.net)
 
 {{% alert note %}}
 If you're a researcher interested in using the KOTA, email me with a request to setup an admin account.

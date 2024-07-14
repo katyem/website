@@ -58,7 +58,7 @@ user_groups:
 - Researchers
 ---
 
-My primary research interests are in the area of Automated Item Generation, particularly in using computers to build assessments on-the-fly. The <a href="/project/kota/">KOTA</a> is a prototype of one such assessment protocol. 
+My primary research interests are in the area of Automated Item Generation, particularly in using computers/AI to build assessments on-the-fly. The <a href="/project/kota/">KOTA</a> is a prototype of one such assessment protocol. 
 
 <a href="https://tlsheets.netlify.app/">Curriculum Vita</a>
 

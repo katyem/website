@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Analyst, Talent Management Reporting & Survey Administration at Gap
+role: Analyst
 
 # Organizations/Affiliations
 organizations:
@@ -54,7 +54,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Lab Alumni
 ---
 
 Derrick's dissertation examined adverse impact using the KOTA.  His research interests include the use of AIG in selection.

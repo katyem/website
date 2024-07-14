@@ -50,7 +50,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Lab Alumni
 ---
 
 My research focuses on the understanding of item radicals (item components that influence item difficulty) in an AIG  Shepard-Metzler Mental Rotation task.

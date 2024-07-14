@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Research Assistant
+role: Former Research Assistant
 
 # Organizations/Affiliations
 organizations:
@@ -53,7 +53,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Assistants
+- Lab Alumni
 ---
 
 Joseph is a doctoral-level research assistant in the Industrial-Organizational Psychology program at Louisana Tech University. His research interests include the use of AI in selection.
